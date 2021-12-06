@@ -11,6 +11,7 @@ Refactoring existing website syntax and styles in order to promote Search Engine
 https://hicksda43.github.io/code-refactor/
 
 ## Preview
+![horiseon-snap](https://user-images.githubusercontent.com/93965675/144783819-7e013dff-e776-4c8c-acac-e900897e0f77.jpeg)
 
 
 ## Contribution
